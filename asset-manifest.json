@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12ea64b0.css",
+    "main.js": "/static/js/main.948a906f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/projects.png": "/static/media/projects.693121b3e8cc2f25bc2c.png",
+    "static/media/cats.jpeg": "/static/media/cats.4e3c9f4cd1f6362e9b5e.jpeg",
+    "static/media/studying.jpeg": "/static/media/studying.c895cb55ab3d27de0b5f.jpeg",
+    "static/media/pompom.jpeg": "/static/media/pompom.bd54195718b3c0a05ec8.jpeg",
+    "static/media/ilovecat.jpeg": "/static/media/ilovecat.c60ec5ebc79a7097e139.jpeg",
+    "static/media/codingCat.png": "/static/media/codingCat.3ef48a451a3876c62d6d.png",
+    "static/media/mybirthday.jpeg": "/static/media/mybirthday.25996199fdd895785f3a.jpeg",
+    "static/media/expers.png": "/static/media/expers.837c8447bb9c70bbebd0.png",
+    "static/media/macCat.png": "/static/media/macCat.72b41cb09507f1b90972.png",
+    "static/media/hacka.jpeg": "/static/media/hacka.fa720ec204615d4968a2.jpeg",
+    "static/media/airplane.jpeg": "/static/media/airplane.60aafdef926759755a80.jpeg",
+    "static/media/myroadmap.png": "/static/media/myroadmap.bbf7ca98b0b9cfdca10c.png",
+    "index.html": "/index.html",
+    "main.12ea64b0.css.map": "/static/css/main.12ea64b0.css.map",
+    "main.948a906f.js.map": "/static/js/main.948a906f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ea64b0.css",
+    "static/js/main.948a906f.js"
+  ]
+}
